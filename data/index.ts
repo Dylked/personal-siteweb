@@ -203,5 +203,6 @@ export const socialMedia = [
     {
         id: 1,
         img: "/link.svg",
+        url: "https://www.linkedin.com/in/dylannunez/"
     },
 ];
