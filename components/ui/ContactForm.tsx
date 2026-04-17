@@ -78,7 +78,7 @@ export function ContactForm() {
 
     return (
         <div
-            className="shadow-input mx-auto rounded-none  p-4 md:rounded-2xl md:p-8 lg:max-w-[45vw]"
+            className="shadow-input mx-auto  p-4 rounded-3xl md:p-8 lg:max-w-[45vw]"
             style={{
                 background: 'rgb(4,7,29)',
                 backgroundColor:
