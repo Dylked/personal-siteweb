@@ -99,7 +99,7 @@ export function ContactForm() {
                     <Input id="name"
                         value={form.name}
                         onChange={handleChange}
-                        placeholder="Dylan Nunez"
+                        placeholder="John Doe"
                         type="text" />
                 </LabelInputContainer>
                 <LabelInputContainer className="mb-6">
